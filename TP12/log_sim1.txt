@@ -1,1389 +1,618 @@
-T=96.00 clienteE334: COLA EMERGENCIA - llegue con un IA: 96.00 
-Atendiendo: 0 
+T= 4.00 clienteE293: COLA EMERGENCIA - llegue con un IA:  4.00 
+Atendiendo: 0 de 5
 En cola: 0 
-T=96.00, clienteE334: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 1 
+T= 4.00, clienteE293: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 1 de 5
 En cola: 0 
-Tiempo de Atencion generado para clienteE334: 11.00 
-T=107.00, clienteE334: Sali de un puesto de emergencia 
-T=257.00 clienteE335: COLA EMERGENCIA - llegue con un IA: 161.00 
-Atendiendo: 1 
+Tiempo de Atencion generado para clienteE293:  6.00 
+T=10.00, clienteE293: Sali de un puesto de emergencia 
+T=231.00 clienteE294: COLA EMERGENCIA - llegue con un IA: 227.00 
+Atendiendo: 1 de 5
 En cola: 0 
-T=257.00, clienteE335: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 2 
+T=231.00, clienteE294: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 2 de 5
 En cola: 0 
-Tiempo de Atencion generado para clienteE335: 22.00 
-T=279.00, clienteE335: Sali de un puesto de emergencia 
-T=303.00 clienteE336: COLA EMERGENCIA - llegue con un IA: 46.00 
-Atendiendo: 2 
+Tiempo de Atencion generado para clienteE294:  3.00 
+T=234.00, clienteE294: Sali de un puesto de emergencia 
+T=249.00 clienteE295: COLA EMERGENCIA - llegue con un IA: 18.00 
+Atendiendo: 2 de 5
 En cola: 0 
-T=303.00, clienteE336: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 3 
+T=249.00, clienteE295: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 3 de 5
 En cola: 0 
-Tiempo de Atencion generado para clienteE336: 14.00 
-T=317.00, clienteE336: Sali de un puesto de emergencia 
-T=469.00 clienteE337: COLA EMERGENCIA - llegue con un IA: 166.00 
-Atendiendo: 3 
+Tiempo de Atencion generado para clienteE295: 37.00 
+T=286.00, clienteE295: Sali de un puesto de emergencia 
+T=431.00 clienteE296: COLA EMERGENCIA - llegue con un IA: 182.00 
+Atendiendo: 3 de 5
 En cola: 0 
-T=469.00, clienteE337: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 4 
+T=431.00, clienteE296: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 4 de 5
 En cola: 0 
-Tiempo de Atencion generado para clienteE337:  3.00 
-T=472.00, clienteE337: Sali de un puesto de emergencia 
-T=520.00 clienteE338: COLA EMERGENCIA - llegue con un IA: 51.00 
-Atendiendo: 4 
+Tiempo de Atencion generado para clienteE296: 99.00 
+T=461.00 clienteE297: COLA EMERGENCIA - llegue con un IA: 30.00 
+Atendiendo: 4 de 5
 En cola: 0 
-T=520.00, clienteE338: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 5 
+T=461.00, clienteE297: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 5 de 5
 En cola: 0 
-Tiempo de Atencion generado para clienteE338: 10.00 
-T=530.00, clienteE338: Sali de un puesto de emergencia 
-T=620.00 clienteE339: COLA EMERGENCIA - llegue con un IA: 100.00 
-Atendiendo: 5 
-En cola: 0 
-T=626.00 clienteE340: COLA EMERGENCIA - llegue con un IA:  6.00 
-Atendiendo: 5 
-En cola: 1 
-T=634.00 clienteE341: COLA EMERGENCIA - llegue con un IA:  8.00 
-Atendiendo: 5 
-En cola: 2 
-T=661.00 clienteE342: COLA EMERGENCIA - llegue con un IA: 27.00 
-Atendiendo: 5 
-En cola: 3 
-T=667.00 clienteE343: COLA EMERGENCIA - llegue con un IA:  6.00 
-Atendiendo: 5 
-En cola: 4 
-T=737.00 clienteE344: COLA EMERGENCIA - llegue con un IA: 70.00 
-Atendiendo: 5 
-En cola: 5 
-T=780.00 clienteE345: COLA EMERGENCIA - llegue con un IA: 43.00 
-Atendiendo: 5 
-En cola: 6 
-T=792.00 clienteE346: COLA EMERGENCIA - llegue con un IA: 12.00 
-Atendiendo: 5 
-En cola: 7 
-T=796.00 clienteE347: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 5 
-En cola: 8 
-T=821.00 clienteE348: COLA EMERGENCIA - llegue con un IA: 25.00 
-Atendiendo: 5 
-En cola: 9 
-T=888.00 clienteE349: COLA EMERGENCIA - llegue con un IA: 67.00 
-Atendiendo: 5 
-En cola: 10 
-T=976.00 clienteE350: COLA EMERGENCIA - llegue con un IA: 88.00 
-Atendiendo: 5 
-En cola: 11 
-T=994.00 clienteE351: COLA EMERGENCIA - llegue con un IA: 18.00 
-Atendiendo: 5 
-En cola: 12 
+Tiempo de Atencion generado para clienteE297: 10.00 
+T=471.00, clienteE297: Sali de un puesto de emergencia 
 ================================================================================ 
 
-T= 3.00 clienteE353: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 0 
+T= 6.00 clienteE299: COLA EMERGENCIA - llegue con un IA:  6.00 
+Atendiendo: 0 de 10
 En cola: 0 
-T= 3.00, clienteE353: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 1 
+T= 6.00, clienteE299: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 1 de 10
 En cola: 0 
-Tiempo de Atencion generado para clienteE353: 112.00 
-T=18.00 clienteE354: COLA EMERGENCIA - llegue con un IA: 15.00 
-Atendiendo: 1 
+Tiempo de Atencion generado para clienteE299: 90.00 
+T=24.00 clienteE300: COLA EMERGENCIA - llegue con un IA: 18.00 
+Atendiendo: 1 de 10
 En cola: 0 
-T=18.00, clienteE354: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 2 
+T=24.00, clienteE300: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 2 de 10
 En cola: 0 
-Tiempo de Atencion generado para clienteE354: 123.00 
-T=50.00 clienteE355: COLA EMERGENCIA - llegue con un IA: 32.00 
-Atendiendo: 2 
+Tiempo de Atencion generado para clienteE300: 18.00 
+T=42.00, clienteE300: Sali de un puesto de emergencia 
+T=95.00 clienteE301: COLA EMERGENCIA - llegue con un IA: 71.00 
+Atendiendo: 2 de 10
 En cola: 0 
-T=50.00, clienteE355: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 3 
+T=95.00, clienteE301: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 3 de 10
 En cola: 0 
-Tiempo de Atencion generado para clienteE355: 121.00 
-T=64.00 clienteE356: COLA EMERGENCIA - llegue con un IA: 14.00 
-Atendiendo: 3 
+Tiempo de Atencion generado para clienteE301: 65.00 
+T=96.00, clienteE299: Sali de un puesto de emergencia 
+T=160.00, clienteE301: Sali de un puesto de emergencia 
+T=249.00 clienteE302: COLA EMERGENCIA - llegue con un IA: 154.00 
+Atendiendo: 3 de 10
 En cola: 0 
-T=64.00, clienteE356: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 4 
+T=249.00, clienteE302: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 4 de 10
 En cola: 0 
-Tiempo de Atencion generado para clienteE356:  7.00 
-T=71.00, clienteE356: Sali de un puesto de emergencia 
-T=93.00 clienteE357: COLA EMERGENCIA - llegue con un IA: 29.00 
-Atendiendo: 4 
+Tiempo de Atencion generado para clienteE302: 17.00 
+T=257.00 clienteE303: COLA EMERGENCIA - llegue con un IA:  8.00 
+Atendiendo: 4 de 10
 En cola: 0 
-T=93.00, clienteE357: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 5 
+T=257.00, clienteE303: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 5 de 10
 En cola: 0 
-Tiempo de Atencion generado para clienteE357: 27.00 
-T=106.00 clienteE358: COLA EMERGENCIA - llegue con un IA: 13.00 
-Atendiendo: 5 
+Tiempo de Atencion generado para clienteE303: 33.00 
+T=266.00, clienteE302: Sali de un puesto de emergencia 
+T=290.00, clienteE303: Sali de un puesto de emergencia 
+T=395.00 clienteE304: COLA EMERGENCIA - llegue con un IA: 138.00 
+Atendiendo: 5 de 10
 En cola: 0 
-T=106.00, clienteE358: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 6 
+T=395.00, clienteE304: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 6 de 10
 En cola: 0 
-Tiempo de Atencion generado para clienteE358: 12.00 
-T=109.00 clienteE359: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 6 
+Tiempo de Atencion generado para clienteE304: 63.00 
+T=452.00 clienteE305: COLA EMERGENCIA - llegue con un IA: 57.00 
+Atendiendo: 6 de 10
 En cola: 0 
-T=109.00, clienteE359: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 7 
+T=452.00, clienteE305: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 7 de 10
 En cola: 0 
-Tiempo de Atencion generado para clienteE359:  4.00 
-T=113.00, clienteE359: Sali de un puesto de emergencia 
-T=114.00 clienteE360: COLA EMERGENCIA - llegue con un IA:  5.00 
-Atendiendo: 7 
-En cola: 0 
-T=114.00, clienteE360: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 8 
-En cola: 0 
-Tiempo de Atencion generado para clienteE360: 68.00 
-T=115.00, clienteE353: Sali de un puesto de emergencia 
-T=118.00, clienteE358: Sali de un puesto de emergencia 
-T=120.00, clienteE357: Sali de un puesto de emergencia 
-T=121.00 clienteE361: COLA EMERGENCIA - llegue con un IA:  7.00 
-Atendiendo: 8 
-En cola: 0 
-T=121.00, clienteE361: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 9 
-En cola: 0 
-Tiempo de Atencion generado para clienteE361:  2.00 
-T=123.00, clienteE361: Sali de un puesto de emergencia 
-T=127.00 clienteE362: COLA EMERGENCIA - llegue con un IA:  6.00 
-Atendiendo: 9 
-En cola: 0 
-T=127.00, clienteE362: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 10 
-En cola: 0 
-Tiempo de Atencion generado para clienteE362: 79.00 
-T=141.00, clienteE354: Sali de un puesto de emergencia 
-T=171.00, clienteE355: Sali de un puesto de emergencia 
-T=182.00, clienteE360: Sali de un puesto de emergencia 
-T=206.00, clienteE362: Sali de un puesto de emergencia 
-T=228.00 clienteE363: COLA EMERGENCIA - llegue con un IA: 101.00 
-Atendiendo: 10 
-En cola: 0 
-T=363.00 clienteE364: COLA EMERGENCIA - llegue con un IA: 135.00 
-Atendiendo: 10 
-En cola: 1 
-T=380.00 clienteE365: COLA EMERGENCIA - llegue con un IA: 17.00 
-Atendiendo: 10 
-En cola: 2 
-T=393.00 clienteE366: COLA EMERGENCIA - llegue con un IA: 13.00 
-Atendiendo: 10 
-En cola: 3 
-T=550.00 clienteE367: COLA EMERGENCIA - llegue con un IA: 157.00 
-Atendiendo: 10 
-En cola: 4 
-T=629.00 clienteE368: COLA EMERGENCIA - llegue con un IA: 79.00 
-Atendiendo: 10 
-En cola: 5 
-T=757.00 clienteE369: COLA EMERGENCIA - llegue con un IA: 128.00 
-Atendiendo: 10 
-En cola: 6 
-T=782.00 clienteE370: COLA EMERGENCIA - llegue con un IA: 25.00 
-Atendiendo: 10 
-En cola: 7 
-T=813.00 clienteE371: COLA EMERGENCIA - llegue con un IA: 31.00 
-Atendiendo: 10 
-En cola: 8 
-T=966.00 clienteE372: COLA EMERGENCIA - llegue con un IA: 153.00 
-Atendiendo: 10 
-En cola: 9 
+Tiempo de Atencion generado para clienteE305: 16.00 
+T=458.00, clienteE304: Sali de un puesto de emergencia 
+T=468.00, clienteE305: Sali de un puesto de emergencia 
 ================================================================================ 
 
-T=241.00 clienteE374: COLA EMERGENCIA - llegue con un IA: 241.00 
-Atendiendo: 0 
+T=12.00 clienteE307: COLA EMERGENCIA - llegue con un IA: 12.00 
+Atendiendo: 0 de 15
 En cola: 0 
-T=241.00, clienteE374: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 1 
+T=12.00, clienteE307: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 1 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE374:  8.00 
-T=249.00, clienteE374: Sali de un puesto de emergencia 
-T=488.00 clienteE375: COLA EMERGENCIA - llegue con un IA: 247.00 
-Atendiendo: 1 
+Tiempo de Atencion generado para clienteE307: 20.00 
+T=32.00, clienteE307: Sali de un puesto de emergencia 
+T=98.00 clienteE308: COLA EMERGENCIA - llegue con un IA: 86.00 
+Atendiendo: 1 de 15
 En cola: 0 
-T=488.00, clienteE375: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 2 
+T=98.00, clienteE308: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 2 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE375: 58.00 
-T=527.00 clienteE376: COLA EMERGENCIA - llegue con un IA: 39.00 
-Atendiendo: 2 
+Tiempo de Atencion generado para clienteE308:  6.00 
+T=104.00, clienteE308: Sali de un puesto de emergencia 
+T=136.00 clienteE309: COLA EMERGENCIA - llegue con un IA: 38.00 
+Atendiendo: 2 de 15
 En cola: 0 
-T=527.00, clienteE376: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 3 
+T=136.00, clienteE309: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 3 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE376:  5.00 
-T=532.00, clienteE376: Sali de un puesto de emergencia 
-T=546.00, clienteE375: Sali de un puesto de emergencia 
-T=558.00 clienteE377: COLA EMERGENCIA - llegue con un IA: 31.00 
-Atendiendo: 3 
+Tiempo de Atencion generado para clienteE309: 52.00 
+T=174.00 clienteE310: COLA EMERGENCIA - llegue con un IA: 38.00 
+Atendiendo: 3 de 15
 En cola: 0 
-T=558.00, clienteE377: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 4 
+T=174.00, clienteE310: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 4 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE377: 105.00 
-T=609.00 clienteE378: COLA EMERGENCIA - llegue con un IA: 51.00 
-Atendiendo: 4 
+Tiempo de Atencion generado para clienteE310: 10.00 
+T=183.00 clienteE311: COLA EMERGENCIA - llegue con un IA:  9.00 
+Atendiendo: 4 de 15
 En cola: 0 
-T=609.00, clienteE378: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 5 
+T=183.00, clienteE311: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 5 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE378: 17.00 
-T=618.00 clienteE379: COLA EMERGENCIA - llegue con un IA:  9.00 
-Atendiendo: 5 
+Tiempo de Atencion generado para clienteE311:  4.00 
+T=184.00, clienteE310: Sali de un puesto de emergencia 
+T=187.00, clienteE311: Sali de un puesto de emergencia 
+T=188.00, clienteE309: Sali de un puesto de emergencia 
+T=206.00 clienteE312: COLA EMERGENCIA - llegue con un IA: 23.00 
+Atendiendo: 5 de 15
 En cola: 0 
-T=618.00, clienteE379: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 6 
+T=206.00, clienteE312: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 6 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE379: 113.00 
-T=626.00, clienteE378: Sali de un puesto de emergencia 
-T=663.00, clienteE377: Sali de un puesto de emergencia 
-T=683.00 clienteE380: COLA EMERGENCIA - llegue con un IA: 65.00 
-Atendiendo: 6 
+Tiempo de Atencion generado para clienteE312:  8.00 
+T=214.00, clienteE312: Sali de un puesto de emergencia 
+T=222.00 clienteE313: COLA EMERGENCIA - llegue con un IA: 16.00 
+Atendiendo: 6 de 15
 En cola: 0 
-T=683.00, clienteE380: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 7 
+T=222.00, clienteE313: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 7 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE380: 46.00 
-T=692.00 clienteE381: COLA EMERGENCIA - llegue con un IA:  9.00 
-Atendiendo: 7 
+Tiempo de Atencion generado para clienteE313:  2.00 
+T=224.00, clienteE313: Sali de un puesto de emergencia 
+T=252.00 clienteE314: COLA EMERGENCIA - llegue con un IA: 30.00 
+Atendiendo: 7 de 15
 En cola: 0 
-T=692.00, clienteE381: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 8 
+T=252.00, clienteE314: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 8 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE381: 14.00 
-T=706.00, clienteE381: Sali de un puesto de emergencia 
-T=729.00, clienteE380: Sali de un puesto de emergencia 
-T=731.00, clienteE379: Sali de un puesto de emergencia 
-T=768.00 clienteE382: COLA EMERGENCIA - llegue con un IA: 76.00 
-Atendiendo: 8 
+Tiempo de Atencion generado para clienteE314: 80.00 
+T=267.00 clienteE315: COLA EMERGENCIA - llegue con un IA: 15.00 
+Atendiendo: 8 de 15
 En cola: 0 
-T=768.00, clienteE382: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 9 
+T=267.00, clienteE315: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 9 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE382: 62.00 
-T=772.00 clienteE383: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 9 
+Tiempo de Atencion generado para clienteE315:  9.00 
+T=276.00, clienteE315: Sali de un puesto de emergencia 
+T=284.00 clienteE316: COLA EMERGENCIA - llegue con un IA: 17.00 
+Atendiendo: 9 de 15
 En cola: 0 
-T=772.00, clienteE383: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 10 
+T=284.00, clienteE316: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 10 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE383:  7.00 
-T=779.00, clienteE383: Sali de un puesto de emergencia 
-T=798.00 clienteE384: COLA EMERGENCIA - llegue con un IA: 26.00 
-Atendiendo: 10 
+Tiempo de Atencion generado para clienteE316: 25.00 
+T=290.00 clienteE317: COLA EMERGENCIA - llegue con un IA:  6.00 
+Atendiendo: 10 de 15
 En cola: 0 
-T=798.00, clienteE384: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 11 
+T=290.00, clienteE317: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 11 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE384: 19.00 
-T=817.00, clienteE384: Sali de un puesto de emergencia 
-T=822.00 clienteE385: COLA EMERGENCIA - llegue con un IA: 24.00 
-Atendiendo: 11 
+Tiempo de Atencion generado para clienteE317:  3.00 
+T=293.00, clienteE317: Sali de un puesto de emergencia 
+T=299.00 clienteE318: COLA EMERGENCIA - llegue con un IA:  9.00 
+Atendiendo: 11 de 15
 En cola: 0 
-T=822.00, clienteE385: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 12 
+T=299.00, clienteE318: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 12 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE385:  5.00 
-T=827.00, clienteE385: Sali de un puesto de emergencia 
-T=830.00, clienteE382: Sali de un puesto de emergencia 
-T=844.00 clienteE386: COLA EMERGENCIA - llegue con un IA: 22.00 
-Atendiendo: 12 
+Tiempo de Atencion generado para clienteE318:  7.00 
+T=306.00, clienteE318: Sali de un puesto de emergencia 
+T=309.00, clienteE316: Sali de un puesto de emergencia 
+T=323.00 clienteE319: COLA EMERGENCIA - llegue con un IA: 24.00 
+Atendiendo: 12 de 15
 En cola: 0 
-T=844.00, clienteE386: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 13 
+T=323.00, clienteE319: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 13 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE386:  4.00 
-T=848.00, clienteE386: Sali de un puesto de emergencia 
-T=988.00 clienteE387: COLA EMERGENCIA - llegue con un IA: 144.00 
-Atendiendo: 13 
+Tiempo de Atencion generado para clienteE319:  7.00 
+T=330.00, clienteE319: Sali de un puesto de emergencia 
+T=332.00, clienteE314: Sali de un puesto de emergencia 
+T=356.00 clienteE320: COLA EMERGENCIA - llegue con un IA: 33.00 
+Atendiendo: 13 de 15
 En cola: 0 
-T=988.00, clienteE387: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 14 
+T=356.00, clienteE320: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 14 de 15
 En cola: 0 
-Tiempo de Atencion generado para clienteE387: 10.00 
-T=991.00 clienteE388: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 14 
-En cola: 0 
-T=991.00, clienteE388: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 15 
-En cola: 0 
-Tiempo de Atencion generado para clienteE388: 11.00 
-T=998.00, clienteE387: Sali de un puesto de emergencia 
+Tiempo de Atencion generado para clienteE320:  3.00 
+T=359.00, clienteE320: Sali de un puesto de emergencia 
 ================================================================================ 
 
-T=156.00 clienteE390: COLA EMERGENCIA - llegue con un IA: 156.00 
-Atendiendo: 0 
+T=50.00 clienteE322: COLA EMERGENCIA - llegue con un IA: 50.00 
+Atendiendo: 0 de 20
 En cola: 0 
-T=156.00, clienteE390: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 1 
+T=50.00, clienteE322: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 1 de 20
 En cola: 0 
-Tiempo de Atencion generado para clienteE390: 56.00 
-T=187.00 clienteE391: COLA EMERGENCIA - llegue con un IA: 31.00 
-Atendiendo: 1 
+Tiempo de Atencion generado para clienteE322: 85.00 
+T=103.00 clienteE323: COLA EMERGENCIA - llegue con un IA: 53.00 
+Atendiendo: 1 de 20
 En cola: 0 
-T=187.00, clienteE391: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 2 
+T=103.00, clienteE323: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 2 de 20
 En cola: 0 
-Tiempo de Atencion generado para clienteE391:  7.00 
-T=194.00, clienteE391: Sali de un puesto de emergencia 
-T=212.00, clienteE390: Sali de un puesto de emergencia 
-T=214.00 clienteE392: COLA EMERGENCIA - llegue con un IA: 27.00 
-Atendiendo: 2 
+Tiempo de Atencion generado para clienteE323:  7.00 
+T=110.00, clienteE323: Sali de un puesto de emergencia 
+T=125.00 clienteE324: COLA EMERGENCIA - llegue con un IA: 22.00 
+Atendiendo: 2 de 20
 En cola: 0 
-T=214.00, clienteE392: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 3 
+T=125.00, clienteE324: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 3 de 20
 En cola: 0 
-Tiempo de Atencion generado para clienteE392:  4.00 
-T=218.00, clienteE392: Sali de un puesto de emergencia 
-T=234.00 clienteE393: COLA EMERGENCIA - llegue con un IA: 20.00 
-Atendiendo: 3 
+Tiempo de Atencion generado para clienteE324:  7.00 
+T=132.00 clienteE325: COLA EMERGENCIA - llegue con un IA:  7.00 
+Atendiendo: 3 de 20
 En cola: 0 
-T=234.00, clienteE393: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 4 
+T=132.00, clienteE324: Sali de un puesto de emergencia 
+T=132.00, clienteE325: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 4 de 20
 En cola: 0 
-Tiempo de Atencion generado para clienteE393:  8.00 
-T=242.00, clienteE393: Sali de un puesto de emergencia 
-T=327.00 clienteE394: COLA EMERGENCIA - llegue con un IA: 93.00 
-Atendiendo: 4 
+Tiempo de Atencion generado para clienteE325: 12.00 
+T=135.00, clienteE322: Sali de un puesto de emergencia 
+T=144.00, clienteE325: Sali de un puesto de emergencia 
+T=187.00 clienteE326: COLA EMERGENCIA - llegue con un IA: 55.00 
+Atendiendo: 4 de 20
 En cola: 0 
-T=327.00, clienteE394: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 5 
+T=187.00, clienteE326: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 5 de 20
 En cola: 0 
-Tiempo de Atencion generado para clienteE394:  3.00 
-T=330.00, clienteE394: Sali de un puesto de emergencia 
-T=333.00 clienteE395: COLA EMERGENCIA - llegue con un IA:  6.00 
-Atendiendo: 5 
+Tiempo de Atencion generado para clienteE326: 101.00 
+T=220.00 clienteE327: COLA EMERGENCIA - llegue con un IA: 33.00 
+Atendiendo: 5 de 20
 En cola: 0 
-T=333.00, clienteE395: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 6 
+T=220.00, clienteE327: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 6 de 20
 En cola: 0 
-Tiempo de Atencion generado para clienteE395:  2.00 
-T=335.00, clienteE395: Sali de un puesto de emergencia 
-T=383.00 clienteE396: COLA EMERGENCIA - llegue con un IA: 50.00 
-Atendiendo: 6 
+Tiempo de Atencion generado para clienteE327:  6.00 
+T=226.00, clienteE327: Sali de un puesto de emergencia 
+T=288.00, clienteE326: Sali de un puesto de emergencia 
+T=377.00 clienteE328: COLA EMERGENCIA - llegue con un IA: 157.00 
+Atendiendo: 6 de 20
 En cola: 0 
-T=383.00, clienteE396: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 7 
+T=377.00, clienteE328: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 7 de 20
 En cola: 0 
-Tiempo de Atencion generado para clienteE396: 21.00 
-T=404.00, clienteE396: Sali de un puesto de emergencia 
-T=453.00 clienteE397: COLA EMERGENCIA - llegue con un IA: 70.00 
-Atendiendo: 7 
-En cola: 0 
-T=453.00, clienteE397: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 8 
-En cola: 0 
-Tiempo de Atencion generado para clienteE397: 96.00 
-T=457.00 clienteE398: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 8 
-En cola: 0 
-T=457.00, clienteE398: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 9 
-En cola: 0 
-Tiempo de Atencion generado para clienteE398:  5.00 
-T=461.00 clienteE399: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 9 
-En cola: 0 
-T=461.00, clienteE399: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 10 
-En cola: 0 
-Tiempo de Atencion generado para clienteE399: 85.00 
-T=462.00, clienteE398: Sali de un puesto de emergencia 
-T=464.00 clienteE400: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 10 
-En cola: 0 
-T=464.00, clienteE400: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 11 
-En cola: 0 
-Tiempo de Atencion generado para clienteE400: 121.00 
-T=526.00 clienteE401: COLA EMERGENCIA - llegue con un IA: 62.00 
-Atendiendo: 11 
-En cola: 0 
-T=526.00, clienteE401: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 12 
-En cola: 0 
-Tiempo de Atencion generado para clienteE401:  2.00 
-T=528.00, clienteE401: Sali de un puesto de emergencia 
-T=546.00, clienteE399: Sali de un puesto de emergencia 
-T=549.00, clienteE397: Sali de un puesto de emergencia 
-T=585.00, clienteE400: Sali de un puesto de emergencia 
-T=674.00 clienteE402: COLA EMERGENCIA - llegue con un IA: 148.00 
-Atendiendo: 12 
-En cola: 0 
-T=674.00, clienteE402: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 13 
-En cola: 0 
-Tiempo de Atencion generado para clienteE402:  2.00 
-T=676.00, clienteE402: Sali de un puesto de emergencia 
-T=916.00 clienteE403: COLA EMERGENCIA - llegue con un IA: 242.00 
-Atendiendo: 13 
-En cola: 0 
-T=916.00, clienteE403: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 14 
-En cola: 0 
-Tiempo de Atencion generado para clienteE403: 69.00 
-T=921.00 clienteE404: COLA EMERGENCIA - llegue con un IA:  5.00 
-Atendiendo: 14 
-En cola: 0 
-T=921.00, clienteE404: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 15 
-En cola: 0 
-Tiempo de Atencion generado para clienteE404:  2.00 
-T=923.00, clienteE404: Sali de un puesto de emergencia 
-T=935.00 clienteE405: COLA EMERGENCIA - llegue con un IA: 14.00 
-Atendiendo: 15 
-En cola: 0 
-T=935.00, clienteE405: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 16 
-En cola: 0 
-Tiempo de Atencion generado para clienteE405:  2.00 
-T=937.00, clienteE405: Sali de un puesto de emergencia 
-T=985.00, clienteE403: Sali de un puesto de emergencia 
+Tiempo de Atencion generado para clienteE328: 80.00 
+T=457.00, clienteE328: Sali de un puesto de emergencia 
 ================================================================================ 
 
-T=54.00 clienteE407: COLA EMERGENCIA - llegue con un IA: 54.00 
-Atendiendo: 0 
+T=24.00 clienteE330: COLA EMERGENCIA - llegue con un IA: 24.00 
+Atendiendo: 0 de 25
 En cola: 0 
-T=54.00, clienteE407: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 1 
+T=24.00, clienteE330: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 1 de 25
 En cola: 0 
-Tiempo de Atencion generado para clienteE407: 10.00 
-T=64.00, clienteE407: Sali de un puesto de emergencia 
-T=309.00 clienteE408: COLA EMERGENCIA - llegue con un IA: 255.00 
-Atendiendo: 1 
+Tiempo de Atencion generado para clienteE330: 104.00 
+T=31.00 clienteE331: COLA EMERGENCIA - llegue con un IA:  7.00 
+Atendiendo: 1 de 25
 En cola: 0 
-T=309.00, clienteE408: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 2 
+T=31.00, clienteE331: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 2 de 25
 En cola: 0 
-Tiempo de Atencion generado para clienteE408:  9.00 
-T=313.00 clienteE409: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 2 
+Tiempo de Atencion generado para clienteE331:  6.00 
+T=37.00, clienteE331: Sali de un puesto de emergencia 
+T=128.00, clienteE330: Sali de un puesto de emergencia 
+T=209.00 clienteE332: COLA EMERGENCIA - llegue con un IA: 178.00 
+Atendiendo: 2 de 25
 En cola: 0 
-T=313.00, clienteE409: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 3 
+T=209.00, clienteE332: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 3 de 25
 En cola: 0 
-Tiempo de Atencion generado para clienteE409:  5.00 
-T=318.00, clienteE408: Sali de un puesto de emergencia 
-T=318.00, clienteE409: Sali de un puesto de emergencia 
-T=319.00 clienteE410: COLA EMERGENCIA - llegue con un IA:  6.00 
-Atendiendo: 3 
+Tiempo de Atencion generado para clienteE332:  3.00 
+T=212.00, clienteE332: Sali de un puesto de emergencia 
+T=313.00 clienteE333: COLA EMERGENCIA - llegue con un IA: 104.00 
+Atendiendo: 3 de 25
 En cola: 0 
-T=319.00, clienteE410: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 4 
+T=313.00, clienteE333: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 4 de 25
 En cola: 0 
-Tiempo de Atencion generado para clienteE410:  4.00 
-T=322.00 clienteE411: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 4 
+Tiempo de Atencion generado para clienteE333: 23.00 
+T=317.00 clienteE334: COLA EMERGENCIA - llegue con un IA:  4.00 
+Atendiendo: 4 de 25
 En cola: 0 
-T=322.00, clienteE411: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 5 
+T=317.00, clienteE334: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 5 de 25
 En cola: 0 
-Tiempo de Atencion generado para clienteE411:  7.00 
-T=323.00, clienteE410: Sali de un puesto de emergencia 
-T=329.00, clienteE411: Sali de un puesto de emergencia 
-T=390.00 clienteE412: COLA EMERGENCIA - llegue con un IA: 68.00 
-Atendiendo: 5 
-En cola: 0 
-T=390.00, clienteE412: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 6 
-En cola: 0 
-Tiempo de Atencion generado para clienteE412: 33.00 
-T=423.00, clienteE412: Sali de un puesto de emergencia 
-T=451.00 clienteE413: COLA EMERGENCIA - llegue con un IA: 61.00 
-Atendiendo: 6 
-En cola: 0 
-T=451.00, clienteE413: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 7 
-En cola: 0 
-Tiempo de Atencion generado para clienteE413: 12.00 
-T=457.00 clienteE414: COLA EMERGENCIA - llegue con un IA:  6.00 
-Atendiendo: 7 
-En cola: 0 
-T=457.00, clienteE414: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 8 
-En cola: 0 
-Tiempo de Atencion generado para clienteE414:  2.00 
-T=459.00, clienteE414: Sali de un puesto de emergencia 
-T=460.00 clienteE415: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 8 
-En cola: 0 
-T=460.00, clienteE415: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 9 
-En cola: 0 
-Tiempo de Atencion generado para clienteE415: 107.00 
-T=463.00, clienteE413: Sali de un puesto de emergencia 
-T=552.00 clienteE416: COLA EMERGENCIA - llegue con un IA: 92.00 
-Atendiendo: 9 
-En cola: 0 
-T=552.00, clienteE416: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 10 
-En cola: 0 
-Tiempo de Atencion generado para clienteE416: 11.00 
-T=563.00, clienteE416: Sali de un puesto de emergencia 
-T=564.00 clienteE417: COLA EMERGENCIA - llegue con un IA: 12.00 
-Atendiendo: 10 
-En cola: 0 
-T=564.00, clienteE417: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 11 
-En cola: 0 
-Tiempo de Atencion generado para clienteE417:  3.00 
-T=567.00, clienteE415: Sali de un puesto de emergencia 
-T=567.00, clienteE417: Sali de un puesto de emergencia 
-T=680.00 clienteE418: COLA EMERGENCIA - llegue con un IA: 116.00 
-Atendiendo: 11 
-En cola: 0 
-T=680.00, clienteE418: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 12 
-En cola: 0 
-Tiempo de Atencion generado para clienteE418:  3.00 
-T=683.00, clienteE418: Sali de un puesto de emergencia 
-T=725.00 clienteE419: COLA EMERGENCIA - llegue con un IA: 45.00 
-Atendiendo: 12 
-En cola: 0 
-T=725.00, clienteE419: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 13 
-En cola: 0 
-Tiempo de Atencion generado para clienteE419:  2.00 
-T=727.00, clienteE419: Sali de un puesto de emergencia 
-T=882.00 clienteE420: COLA EMERGENCIA - llegue con un IA: 157.00 
-Atendiendo: 13 
-En cola: 0 
-T=882.00, clienteE420: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 14 
-En cola: 0 
-Tiempo de Atencion generado para clienteE420: 41.00 
-T=898.00 clienteE421: COLA EMERGENCIA - llegue con un IA: 16.00 
-Atendiendo: 14 
-En cola: 0 
-T=898.00, clienteE421: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 15 
-En cola: 0 
-Tiempo de Atencion generado para clienteE421: 60.00 
-T=912.00 clienteE422: COLA EMERGENCIA - llegue con un IA: 14.00 
-Atendiendo: 15 
-En cola: 0 
-T=912.00, clienteE422: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 16 
-En cola: 0 
-Tiempo de Atencion generado para clienteE422: 40.00 
-T=923.00, clienteE420: Sali de un puesto de emergencia 
-T=936.00 clienteE423: COLA EMERGENCIA - llegue con un IA: 24.00 
-Atendiendo: 16 
-En cola: 0 
-T=936.00, clienteE423: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 17 
-En cola: 0 
-Tiempo de Atencion generado para clienteE423: 18.00 
-T=952.00, clienteE422: Sali de un puesto de emergencia 
-T=954.00, clienteE423: Sali de un puesto de emergencia 
-T=958.00, clienteE421: Sali de un puesto de emergencia 
+Tiempo de Atencion generado para clienteE334: 13.00 
+T=330.00, clienteE334: Sali de un puesto de emergencia 
+T=336.00, clienteE333: Sali de un puesto de emergencia 
 ================================================================================ 
 
-T=217.00 clienteE425: COLA EMERGENCIA - llegue con un IA: 217.00 
-Atendiendo: 0 
+T= 6.00 clienteE336: COLA EMERGENCIA - llegue con un IA:  6.00 
+Atendiendo: 0 de 30
 En cola: 0 
-T=217.00, clienteE425: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 1 
+T= 6.00, clienteE336: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 1 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE425: 10.00 
-T=225.00 clienteE426: COLA EMERGENCIA - llegue con un IA:  8.00 
-Atendiendo: 1 
+Tiempo de Atencion generado para clienteE336: 31.00 
+T= 9.00 clienteE337: COLA EMERGENCIA - llegue con un IA:  3.00 
+Atendiendo: 1 de 30
 En cola: 0 
-T=225.00, clienteE426: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 2 
+T= 9.00, clienteE337: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 2 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE426: 26.00 
-T=227.00, clienteE425: Sali de un puesto de emergencia 
-T=244.00 clienteE427: COLA EMERGENCIA - llegue con un IA: 19.00 
-Atendiendo: 2 
+Tiempo de Atencion generado para clienteE337: 15.00 
+T=14.00 clienteE338: COLA EMERGENCIA - llegue con un IA:  5.00 
+Atendiendo: 2 de 30
 En cola: 0 
-T=244.00, clienteE427: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 3 
+T=14.00, clienteE338: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 3 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE427:  4.00 
-T=248.00, clienteE427: Sali de un puesto de emergencia 
-T=249.00 clienteE428: COLA EMERGENCIA - llegue con un IA:  5.00 
-Atendiendo: 3 
+Tiempo de Atencion generado para clienteE338: 93.00 
+T=24.00, clienteE337: Sali de un puesto de emergencia 
+T=35.00 clienteE339: COLA EMERGENCIA - llegue con un IA: 21.00 
+Atendiendo: 3 de 30
 En cola: 0 
-T=249.00, clienteE428: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 4 
+T=35.00, clienteE339: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 4 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE428:  2.00 
-T=251.00, clienteE426: Sali de un puesto de emergencia 
-T=251.00, clienteE428: Sali de un puesto de emergencia 
-T=482.00 clienteE429: COLA EMERGENCIA - llegue con un IA: 233.00 
-Atendiendo: 4 
+Tiempo de Atencion generado para clienteE339: 75.00 
+T=37.00, clienteE336: Sali de un puesto de emergencia 
+T=44.00 clienteE340: COLA EMERGENCIA - llegue con un IA:  9.00 
+Atendiendo: 4 de 30
 En cola: 0 
-T=482.00, clienteE429: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 5 
+T=44.00, clienteE340: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 5 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE429: 11.00 
-T=493.00, clienteE429: Sali de un puesto de emergencia 
-T=630.00 clienteE430: COLA EMERGENCIA - llegue con un IA: 148.00 
-Atendiendo: 5 
+Tiempo de Atencion generado para clienteE340: 12.00 
+T=47.00 clienteE341: COLA EMERGENCIA - llegue con un IA:  3.00 
+Atendiendo: 5 de 30
 En cola: 0 
-T=630.00, clienteE430: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 6 
+T=47.00, clienteE341: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 6 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE430:  4.00 
-T=634.00, clienteE430: Sali de un puesto de emergencia 
-T=640.00 clienteE431: COLA EMERGENCIA - llegue con un IA: 10.00 
-Atendiendo: 6 
+Tiempo de Atencion generado para clienteE341: 10.00 
+T=56.00, clienteE340: Sali de un puesto de emergencia 
+T=57.00, clienteE341: Sali de un puesto de emergencia 
+T=60.00 clienteE342: COLA EMERGENCIA - llegue con un IA: 13.00 
+Atendiendo: 6 de 30
 En cola: 0 
-T=640.00, clienteE431: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 7 
+T=60.00, clienteE342: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 7 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE431: 27.00 
-T=667.00, clienteE431: Sali de un puesto de emergencia 
-T=822.00 clienteE432: COLA EMERGENCIA - llegue con un IA: 182.00 
-Atendiendo: 7 
+Tiempo de Atencion generado para clienteE342: 81.00 
+T=63.00 clienteE343: COLA EMERGENCIA - llegue con un IA:  3.00 
+Atendiendo: 7 de 30
 En cola: 0 
-T=822.00, clienteE432: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 8 
+T=63.00, clienteE343: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 8 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE432:  2.00 
-T=824.00, clienteE432: Sali de un puesto de emergencia 
-T=955.00 clienteE433: COLA EMERGENCIA - llegue con un IA: 133.00 
-Atendiendo: 8 
+Tiempo de Atencion generado para clienteE343: 19.00 
+T=82.00, clienteE343: Sali de un puesto de emergencia 
+T=107.00, clienteE338: Sali de un puesto de emergencia 
+T=110.00, clienteE339: Sali de un puesto de emergencia 
+T=141.00, clienteE342: Sali de un puesto de emergencia 
+T=256.00 clienteE344: COLA EMERGENCIA - llegue con un IA: 193.00 
+Atendiendo: 8 de 30
 En cola: 0 
-T=955.00, clienteE433: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 9 
+T=256.00, clienteE344: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 9 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE433: 85.00 
-T=966.00 clienteE434: COLA EMERGENCIA - llegue con un IA: 11.00 
-Atendiendo: 9 
+Tiempo de Atencion generado para clienteE344: 11.00 
+T=267.00, clienteE344: Sali de un puesto de emergencia 
+T=278.00 clienteE345: COLA EMERGENCIA - llegue con un IA: 22.00 
+Atendiendo: 9 de 30
 En cola: 0 
-T=966.00, clienteE434: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 10 
+T=278.00, clienteE345: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 10 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE434: 14.00 
-T=969.00 clienteE435: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 10 
+Tiempo de Atencion generado para clienteE345: 71.00 
+T=289.00 clienteE346: COLA EMERGENCIA - llegue con un IA: 11.00 
+Atendiendo: 10 de 30
 En cola: 0 
-T=969.00, clienteE435: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 11 
+T=289.00, clienteE346: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 11 de 30
 En cola: 0 
-Tiempo de Atencion generado para clienteE435: 55.00 
-T=980.00, clienteE434: Sali de un puesto de emergencia 
+Tiempo de Atencion generado para clienteE346: 21.00 
+T=304.00 clienteE347: COLA EMERGENCIA - llegue con un IA: 15.00 
+Atendiendo: 11 de 30
+En cola: 0 
+T=304.00, clienteE347: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 12 de 30
+En cola: 0 
+Tiempo de Atencion generado para clienteE347: 27.00 
+T=310.00, clienteE346: Sali de un puesto de emergencia 
+T=331.00, clienteE347: Sali de un puesto de emergencia 
+T=349.00, clienteE345: Sali de un puesto de emergencia 
 ================================================================================ 
 
-T= 8.00 clienteE437: COLA EMERGENCIA - llegue con un IA:  8.00 
-Atendiendo: 0 
+T=157.00 clienteE349: COLA EMERGENCIA - llegue con un IA: 157.00 
+Atendiendo: 0 de 35
 En cola: 0 
-T= 8.00, clienteE437: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 1 
+T=157.00, clienteE349: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 1 de 35
 En cola: 0 
-Tiempo de Atencion generado para clienteE437:  8.00 
-T=16.00, clienteE437: Sali de un puesto de emergencia 
-T=128.00 clienteE438: COLA EMERGENCIA - llegue con un IA: 120.00 
-Atendiendo: 1 
+Tiempo de Atencion generado para clienteE349:  4.00 
+T=161.00, clienteE349: Sali de un puesto de emergencia 
+T=203.00 clienteE350: COLA EMERGENCIA - llegue con un IA: 46.00 
+Atendiendo: 1 de 35
 En cola: 0 
-T=128.00, clienteE438: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 2 
+T=203.00, clienteE350: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 2 de 35
 En cola: 0 
-Tiempo de Atencion generado para clienteE438:  5.00 
-T=133.00, clienteE438: Sali de un puesto de emergencia 
-T=153.00 clienteE439: COLA EMERGENCIA - llegue con un IA: 25.00 
-Atendiendo: 2 
+Tiempo de Atencion generado para clienteE350:  5.00 
+T=207.00 clienteE351: COLA EMERGENCIA - llegue con un IA:  4.00 
+Atendiendo: 2 de 35
 En cola: 0 
-T=153.00, clienteE439: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 3 
+T=207.00, clienteE351: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 3 de 35
 En cola: 0 
-Tiempo de Atencion generado para clienteE439: 60.00 
-T=213.00, clienteE439: Sali de un puesto de emergencia 
-T=222.00 clienteE440: COLA EMERGENCIA - llegue con un IA: 69.00 
-Atendiendo: 3 
+Tiempo de Atencion generado para clienteE351:  7.00 
+T=208.00, clienteE350: Sali de un puesto de emergencia 
+T=214.00, clienteE351: Sali de un puesto de emergencia 
+T=311.00 clienteE352: COLA EMERGENCIA - llegue con un IA: 104.00 
+Atendiendo: 3 de 35
 En cola: 0 
-T=222.00, clienteE440: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 4 
+T=311.00, clienteE352: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 4 de 35
 En cola: 0 
-Tiempo de Atencion generado para clienteE440:  4.00 
-T=226.00, clienteE440: Sali de un puesto de emergencia 
-T=254.00 clienteE441: COLA EMERGENCIA - llegue con un IA: 32.00 
-Atendiendo: 4 
+Tiempo de Atencion generado para clienteE352: 11.00 
+T=322.00, clienteE352: Sali de un puesto de emergencia 
+T=397.00 clienteE353: COLA EMERGENCIA - llegue con un IA: 86.00 
+Atendiendo: 4 de 35
 En cola: 0 
-T=254.00, clienteE441: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 5 
+T=397.00, clienteE353: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 5 de 35
 En cola: 0 
-Tiempo de Atencion generado para clienteE441: 36.00 
-T=283.00 clienteE442: COLA EMERGENCIA - llegue con un IA: 29.00 
-Atendiendo: 5 
+Tiempo de Atencion generado para clienteE353:  4.00 
+T=401.00, clienteE353: Sali de un puesto de emergencia 
+T=416.00 clienteE354: COLA EMERGENCIA - llegue con un IA: 19.00 
+Atendiendo: 5 de 35
 En cola: 0 
-T=283.00, clienteE442: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 6 
+T=416.00, clienteE354: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 6 de 35
 En cola: 0 
-Tiempo de Atencion generado para clienteE442: 16.00 
-T=290.00, clienteE441: Sali de un puesto de emergencia 
-T=299.00, clienteE442: Sali de un puesto de emergencia 
-T=522.00 clienteE443: COLA EMERGENCIA - llegue con un IA: 239.00 
-Atendiendo: 6 
+Tiempo de Atencion generado para clienteE354: 25.00 
+T=424.00 clienteE355: COLA EMERGENCIA - llegue con un IA:  8.00 
+Atendiendo: 6 de 35
 En cola: 0 
-T=522.00, clienteE443: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 7 
+T=424.00, clienteE355: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 7 de 35
 En cola: 0 
-Tiempo de Atencion generado para clienteE443: 44.00 
-T=527.00 clienteE444: COLA EMERGENCIA - llegue con un IA:  5.00 
-Atendiendo: 7 
-En cola: 0 
-T=527.00, clienteE444: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 8 
-En cola: 0 
-Tiempo de Atencion generado para clienteE444:  4.00 
-T=531.00, clienteE444: Sali de un puesto de emergencia 
-T=545.00 clienteE445: COLA EMERGENCIA - llegue con un IA: 18.00 
-Atendiendo: 8 
-En cola: 0 
-T=545.00, clienteE445: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 9 
-En cola: 0 
-Tiempo de Atencion generado para clienteE445:  3.00 
-T=548.00, clienteE445: Sali de un puesto de emergencia 
-T=566.00, clienteE443: Sali de un puesto de emergencia 
-T=650.00 clienteE446: COLA EMERGENCIA - llegue con un IA: 105.00 
-Atendiendo: 9 
-En cola: 0 
-T=650.00, clienteE446: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 10 
-En cola: 0 
-Tiempo de Atencion generado para clienteE446: 23.00 
-T=658.00 clienteE447: COLA EMERGENCIA - llegue con un IA:  8.00 
-Atendiendo: 10 
-En cola: 0 
-T=658.00, clienteE447: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 11 
-En cola: 0 
-Tiempo de Atencion generado para clienteE447: 72.00 
-T=661.00 clienteE448: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 11 
-En cola: 0 
-T=661.00, clienteE448: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 12 
-En cola: 0 
-Tiempo de Atencion generado para clienteE448:  3.00 
-T=664.00, clienteE448: Sali de un puesto de emergencia 
-T=673.00, clienteE446: Sali de un puesto de emergencia 
-T=682.00 clienteE449: COLA EMERGENCIA - llegue con un IA: 21.00 
-Atendiendo: 12 
-En cola: 0 
-T=682.00, clienteE449: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 13 
-En cola: 0 
-Tiempo de Atencion generado para clienteE449: 20.00 
-T=702.00, clienteE449: Sali de un puesto de emergencia 
-T=730.00, clienteE447: Sali de un puesto de emergencia 
-T=830.00 clienteE450: COLA EMERGENCIA - llegue con un IA: 148.00 
-Atendiendo: 13 
-En cola: 0 
-T=830.00, clienteE450: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 14 
-En cola: 0 
-Tiempo de Atencion generado para clienteE450: 12.00 
-T=842.00, clienteE450: Sali de un puesto de emergencia 
-T=854.00 clienteE451: COLA EMERGENCIA - llegue con un IA: 24.00 
-Atendiendo: 14 
-En cola: 0 
-T=854.00, clienteE451: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 15 
-En cola: 0 
-Tiempo de Atencion generado para clienteE451:  2.00 
-T=856.00, clienteE451: Sali de un puesto de emergencia 
-T=857.00 clienteE452: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 15 
-En cola: 0 
-T=857.00, clienteE452: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 16 
-En cola: 0 
-Tiempo de Atencion generado para clienteE452: 23.00 
-T=861.00 clienteE453: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 16 
-En cola: 0 
-T=861.00, clienteE453: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 17 
-En cola: 0 
-Tiempo de Atencion generado para clienteE453:  3.00 
-T=864.00, clienteE453: Sali de un puesto de emergencia 
-T=880.00, clienteE452: Sali de un puesto de emergencia 
+Tiempo de Atencion generado para clienteE355: 47.00 
+T=441.00, clienteE354: Sali de un puesto de emergencia 
+T=471.00, clienteE355: Sali de un puesto de emergencia 
 ================================================================================ 
 
-T=20.00 clienteE455: COLA EMERGENCIA - llegue con un IA: 20.00 
-Atendiendo: 0 
+T=27.00 clienteE357: COLA EMERGENCIA - llegue con un IA: 27.00 
+Atendiendo: 0 de 40
 En cola: 0 
-T=20.00, clienteE455: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 1 
+T=27.00, clienteE357: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 1 de 40
 En cola: 0 
-Tiempo de Atencion generado para clienteE455:  7.00 
-T=27.00, clienteE455: Sali de un puesto de emergencia 
-T=43.00 clienteE456: COLA EMERGENCIA - llegue con un IA: 23.00 
-Atendiendo: 1 
+Tiempo de Atencion generado para clienteE357: 18.00 
+T=30.00 clienteE358: COLA EMERGENCIA - llegue con un IA:  3.00 
+Atendiendo: 1 de 40
 En cola: 0 
-T=43.00, clienteE456: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 2 
+T=30.00, clienteE358: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 2 de 40
 En cola: 0 
-Tiempo de Atencion generado para clienteE456:  2.00 
-T=45.00, clienteE456: Sali de un puesto de emergencia 
-T=150.00 clienteE457: COLA EMERGENCIA - llegue con un IA: 107.00 
-Atendiendo: 2 
+Tiempo de Atencion generado para clienteE358:  2.00 
+T=32.00, clienteE358: Sali de un puesto de emergencia 
+T=45.00, clienteE357: Sali de un puesto de emergencia 
+T=187.00 clienteE359: COLA EMERGENCIA - llegue con un IA: 157.00 
+Atendiendo: 2 de 40
 En cola: 0 
-T=150.00, clienteE457: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 3 
+T=187.00, clienteE359: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 3 de 40
 En cola: 0 
-Tiempo de Atencion generado para clienteE457: 50.00 
-T=155.00 clienteE458: COLA EMERGENCIA - llegue con un IA:  5.00 
-Atendiendo: 3 
+Tiempo de Atencion generado para clienteE359:  7.00 
+T=194.00, clienteE359: Sali de un puesto de emergencia 
+T=338.00 clienteE360: COLA EMERGENCIA - llegue con un IA: 151.00 
+Atendiendo: 3 de 40
 En cola: 0 
-T=155.00, clienteE458: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 4 
+T=338.00, clienteE360: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 4 de 40
 En cola: 0 
-Tiempo de Atencion generado para clienteE458: 55.00 
-T=200.00, clienteE457: Sali de un puesto de emergencia 
-T=210.00, clienteE458: Sali de un puesto de emergencia 
-T=262.00 clienteE459: COLA EMERGENCIA - llegue con un IA: 107.00 
-Atendiendo: 4 
+Tiempo de Atencion generado para clienteE360:  7.00 
+T=345.00, clienteE360: Sali de un puesto de emergencia 
+T=355.00 clienteE361: COLA EMERGENCIA - llegue con un IA: 17.00 
+Atendiendo: 4 de 40
 En cola: 0 
-T=262.00, clienteE459: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 5 
+T=355.00, clienteE361: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 5 de 40
 En cola: 0 
-Tiempo de Atencion generado para clienteE459:  2.00 
-T=264.00, clienteE459: Sali de un puesto de emergencia 
-T=300.00 clienteE460: COLA EMERGENCIA - llegue con un IA: 38.00 
-Atendiendo: 5 
-En cola: 0 
-T=300.00, clienteE460: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 6 
-En cola: 0 
-Tiempo de Atencion generado para clienteE460: 70.00 
-T=319.00 clienteE461: COLA EMERGENCIA - llegue con un IA: 19.00 
-Atendiendo: 6 
-En cola: 0 
-T=319.00, clienteE461: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 7 
-En cola: 0 
-Tiempo de Atencion generado para clienteE461: 19.00 
-T=337.00 clienteE462: COLA EMERGENCIA - llegue con un IA: 18.00 
-Atendiendo: 7 
-En cola: 0 
-T=337.00, clienteE462: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 8 
-En cola: 0 
-Tiempo de Atencion generado para clienteE462:  3.00 
-T=338.00, clienteE461: Sali de un puesto de emergencia 
-T=340.00, clienteE462: Sali de un puesto de emergencia 
-T=370.00, clienteE460: Sali de un puesto de emergencia 
-T=506.00 clienteE463: COLA EMERGENCIA - llegue con un IA: 169.00 
-Atendiendo: 8 
-En cola: 0 
-T=506.00, clienteE463: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 9 
-En cola: 0 
-Tiempo de Atencion generado para clienteE463: 11.00 
-T=512.00 clienteE464: COLA EMERGENCIA - llegue con un IA:  6.00 
-Atendiendo: 9 
-En cola: 0 
-T=512.00, clienteE464: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 10 
-En cola: 0 
-Tiempo de Atencion generado para clienteE464: 63.00 
-T=517.00, clienteE463: Sali de un puesto de emergencia 
-T=553.00 clienteE465: COLA EMERGENCIA - llegue con un IA: 41.00 
-Atendiendo: 10 
-En cola: 0 
-T=553.00, clienteE465: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 11 
-En cola: 0 
-Tiempo de Atencion generado para clienteE465: 65.00 
-T=575.00, clienteE464: Sali de un puesto de emergencia 
-T=618.00, clienteE465: Sali de un puesto de emergencia 
-T=632.00 clienteE466: COLA EMERGENCIA - llegue con un IA: 79.00 
-Atendiendo: 11 
-En cola: 0 
-T=632.00, clienteE466: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 12 
-En cola: 0 
-Tiempo de Atencion generado para clienteE466:  8.00 
-T=639.00 clienteE467: COLA EMERGENCIA - llegue con un IA:  7.00 
-Atendiendo: 12 
-En cola: 0 
-T=639.00, clienteE467: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 13 
-En cola: 0 
-Tiempo de Atencion generado para clienteE467: 96.00 
-T=640.00, clienteE466: Sali de un puesto de emergencia 
-T=652.00 clienteE468: COLA EMERGENCIA - llegue con un IA: 13.00 
-Atendiendo: 13 
-En cola: 0 
-T=652.00, clienteE468: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 14 
-En cola: 0 
-Tiempo de Atencion generado para clienteE468: 18.00 
-T=655.00 clienteE469: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 14 
-En cola: 0 
-T=655.00, clienteE469: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 15 
-En cola: 0 
-Tiempo de Atencion generado para clienteE469: 11.00 
-T=666.00, clienteE469: Sali de un puesto de emergencia 
-T=670.00, clienteE468: Sali de un puesto de emergencia 
-T=671.00 clienteE470: COLA EMERGENCIA - llegue con un IA: 16.00 
-Atendiendo: 15 
-En cola: 0 
-T=671.00, clienteE470: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 16 
-En cola: 0 
-Tiempo de Atencion generado para clienteE470: 126.00 
-T=735.00, clienteE467: Sali de un puesto de emergencia 
-T=744.00 clienteE471: COLA EMERGENCIA - llegue con un IA: 73.00 
-Atendiendo: 16 
-En cola: 0 
-T=744.00, clienteE471: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 17 
-En cola: 0 
-Tiempo de Atencion generado para clienteE471:  5.00 
-T=749.00, clienteE471: Sali de un puesto de emergencia 
-T=750.00 clienteE472: COLA EMERGENCIA - llegue con un IA:  6.00 
-Atendiendo: 17 
-En cola: 0 
-T=750.00, clienteE472: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 18 
-En cola: 0 
-Tiempo de Atencion generado para clienteE472: 32.00 
-T=782.00, clienteE472: Sali de un puesto de emergencia 
-T=797.00, clienteE470: Sali de un puesto de emergencia 
-T=883.00 clienteE473: COLA EMERGENCIA - llegue con un IA: 133.00 
-Atendiendo: 18 
-En cola: 0 
-T=883.00, clienteE473: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 19 
-En cola: 0 
-Tiempo de Atencion generado para clienteE473:  4.00 
-T=887.00, clienteE473: Sali de un puesto de emergencia 
-T=945.00 clienteE474: COLA EMERGENCIA - llegue con un IA: 62.00 
-Atendiendo: 19 
-En cola: 0 
-T=945.00, clienteE474: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 20 
-En cola: 0 
-Tiempo de Atencion generado para clienteE474: 25.00 
-T=950.00 clienteE475: COLA EMERGENCIA - llegue con un IA:  5.00 
-Atendiendo: 20 
-En cola: 0 
-T=950.00, clienteE475: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 21 
-En cola: 0 
-Tiempo de Atencion generado para clienteE475: 28.00 
-T=970.00, clienteE474: Sali de un puesto de emergencia 
-T=978.00, clienteE475: Sali de un puesto de emergencia 
-T=995.00 clienteE476: COLA EMERGENCIA - llegue con un IA: 45.00 
-Atendiendo: 21 
-En cola: 0 
-T=995.00, clienteE476: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 22 
-En cola: 0 
-Tiempo de Atencion generado para clienteE476:  3.00 
-T=998.00, clienteE476: Sali de un puesto de emergencia 
+Tiempo de Atencion generado para clienteE361:  6.00 
+T=361.00, clienteE361: Sali de un puesto de emergencia 
 ================================================================================ 
 
-T= 6.00 clienteE478: COLA EMERGENCIA - llegue con un IA:  6.00 
-Atendiendo: 0 
+T=18.00 clienteE363: COLA EMERGENCIA - llegue con un IA: 18.00 
+Atendiendo: 0 de 45
 En cola: 0 
-T= 6.00, clienteE478: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 1 
+T=18.00, clienteE363: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 1 de 45
 En cola: 0 
-Tiempo de Atencion generado para clienteE478:  8.00 
-T=14.00, clienteE478: Sali de un puesto de emergencia 
-T=15.00 clienteE479: COLA EMERGENCIA - llegue con un IA:  9.00 
-Atendiendo: 1 
+Tiempo de Atencion generado para clienteE363:  2.00 
+T=20.00, clienteE363: Sali de un puesto de emergencia 
+T=159.00 clienteE364: COLA EMERGENCIA - llegue con un IA: 141.00 
+Atendiendo: 1 de 45
 En cola: 0 
-T=15.00, clienteE479: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 2 
+T=159.00, clienteE364: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 2 de 45
 En cola: 0 
-Tiempo de Atencion generado para clienteE479:  2.00 
-T=17.00, clienteE479: Sali de un puesto de emergencia 
-T=19.00 clienteE480: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 2 
+Tiempo de Atencion generado para clienteE364:  9.00 
+T=168.00, clienteE364: Sali de un puesto de emergencia 
+T=189.00 clienteE365: COLA EMERGENCIA - llegue con un IA: 30.00 
+Atendiendo: 2 de 45
 En cola: 0 
-T=19.00, clienteE480: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 3 
+T=189.00, clienteE365: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 3 de 45
 En cola: 0 
-Tiempo de Atencion generado para clienteE480: 93.00 
-T=23.00 clienteE481: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 3 
+Tiempo de Atencion generado para clienteE365: 31.00 
+T=220.00, clienteE365: Sali de un puesto de emergencia 
+T=364.00 clienteE366: COLA EMERGENCIA - llegue con un IA: 175.00 
+Atendiendo: 3 de 45
 En cola: 0 
-T=23.00, clienteE481: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 4 
+T=364.00, clienteE366: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 4 de 45
 En cola: 0 
-Tiempo de Atencion generado para clienteE481: 15.00 
-T=38.00, clienteE481: Sali de un puesto de emergencia 
-T=61.00 clienteE482: COLA EMERGENCIA - llegue con un IA: 38.00 
-Atendiendo: 4 
+Tiempo de Atencion generado para clienteE366:  6.00 
+T=370.00, clienteE366: Sali de un puesto de emergencia 
+T=382.00 clienteE367: COLA EMERGENCIA - llegue con un IA: 18.00 
+Atendiendo: 4 de 45
 En cola: 0 
-T=61.00, clienteE482: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 5 
+T=382.00, clienteE367: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 5 de 45
 En cola: 0 
-Tiempo de Atencion generado para clienteE482:  4.00 
-T=65.00, clienteE482: Sali de un puesto de emergencia 
-T=112.00, clienteE480: Sali de un puesto de emergencia 
-T=201.00 clienteE483: COLA EMERGENCIA - llegue con un IA: 140.00 
-Atendiendo: 5 
+Tiempo de Atencion generado para clienteE367:  5.00 
+T=387.00, clienteE367: Sali de un puesto de emergencia 
+T=476.00 clienteE368: COLA EMERGENCIA - llegue con un IA: 94.00 
+Atendiendo: 5 de 45
 En cola: 0 
-T=201.00, clienteE483: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 6 
+T=476.00, clienteE368: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 6 de 45
 En cola: 0 
-Tiempo de Atencion generado para clienteE483: 29.00 
-T=204.00 clienteE484: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 6 
-En cola: 0 
-T=204.00, clienteE484: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 7 
-En cola: 0 
-Tiempo de Atencion generado para clienteE484: 13.00 
-T=217.00, clienteE484: Sali de un puesto de emergencia 
-T=230.00, clienteE483: Sali de un puesto de emergencia 
-T=340.00 clienteE485: COLA EMERGENCIA - llegue con un IA: 136.00 
-Atendiendo: 7 
-En cola: 0 
-T=340.00, clienteE485: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 8 
-En cola: 0 
-Tiempo de Atencion generado para clienteE485: 63.00 
-T=368.00 clienteE486: COLA EMERGENCIA - llegue con un IA: 28.00 
-Atendiendo: 8 
-En cola: 0 
-T=368.00, clienteE486: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 9 
-En cola: 0 
-Tiempo de Atencion generado para clienteE486: 79.00 
-T=371.00 clienteE487: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 9 
-En cola: 0 
-T=371.00, clienteE487: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 10 
-En cola: 0 
-Tiempo de Atencion generado para clienteE487: 11.00 
-T=382.00, clienteE487: Sali de un puesto de emergencia 
-T=389.00 clienteE488: COLA EMERGENCIA - llegue con un IA: 18.00 
-Atendiendo: 10 
-En cola: 0 
-T=389.00, clienteE488: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 11 
-En cola: 0 
-Tiempo de Atencion generado para clienteE488: 94.00 
-T=403.00, clienteE485: Sali de un puesto de emergencia 
-T=419.00 clienteE489: COLA EMERGENCIA - llegue con un IA: 30.00 
-Atendiendo: 11 
-En cola: 0 
-T=419.00, clienteE489: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 12 
-En cola: 0 
-Tiempo de Atencion generado para clienteE489: 34.00 
-T=447.00, clienteE486: Sali de un puesto de emergencia 
-T=453.00, clienteE489: Sali de un puesto de emergencia 
-T=483.00, clienteE488: Sali de un puesto de emergencia 
-T=528.00 clienteE490: COLA EMERGENCIA - llegue con un IA: 109.00 
-Atendiendo: 12 
-En cola: 0 
-T=528.00, clienteE490: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 13 
-En cola: 0 
-Tiempo de Atencion generado para clienteE490: 24.00 
-T=546.00 clienteE491: COLA EMERGENCIA - llegue con un IA: 18.00 
-Atendiendo: 13 
-En cola: 0 
-T=546.00, clienteE491: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 14 
-En cola: 0 
-Tiempo de Atencion generado para clienteE491: 35.00 
-T=552.00, clienteE490: Sali de un puesto de emergencia 
-T=581.00, clienteE491: Sali de un puesto de emergencia 
-T=667.00 clienteE492: COLA EMERGENCIA - llegue con un IA: 121.00 
-Atendiendo: 14 
-En cola: 0 
-T=667.00, clienteE492: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 15 
-En cola: 0 
-Tiempo de Atencion generado para clienteE492: 11.00 
-T=678.00, clienteE492: Sali de un puesto de emergencia 
-T=721.00 clienteE493: COLA EMERGENCIA - llegue con un IA: 54.00 
-Atendiendo: 15 
-En cola: 0 
-T=721.00, clienteE493: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 16 
-En cola: 0 
-Tiempo de Atencion generado para clienteE493: 40.00 
-T=724.00 clienteE494: COLA EMERGENCIA - llegue con un IA:  3.00 
-Atendiendo: 16 
-En cola: 0 
-T=724.00, clienteE494: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 17 
-En cola: 0 
-Tiempo de Atencion generado para clienteE494: 45.00 
-T=742.00 clienteE495: COLA EMERGENCIA - llegue con un IA: 18.00 
-Atendiendo: 17 
-En cola: 0 
-T=742.00, clienteE495: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 18 
-En cola: 0 
-Tiempo de Atencion generado para clienteE495: 43.00 
-T=746.00 clienteE496: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 18 
-En cola: 0 
-T=746.00, clienteE496: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 19 
-En cola: 0 
-Tiempo de Atencion generado para clienteE496:  5.00 
-T=751.00, clienteE496: Sali de un puesto de emergencia 
-T=761.00, clienteE493: Sali de un puesto de emergencia 
-T=761.00 clienteE497: COLA EMERGENCIA - llegue con un IA: 15.00 
-Atendiendo: 19 
-En cola: 0 
-T=761.00, clienteE497: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 20 
-En cola: 0 
-Tiempo de Atencion generado para clienteE497: 11.00 
-T=767.00 clienteE498: COLA EMERGENCIA - llegue con un IA:  6.00 
-Atendiendo: 20 
-En cola: 0 
-T=767.00, clienteE498: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 21 
-En cola: 0 
-Tiempo de Atencion generado para clienteE498:  2.00 
-T=769.00, clienteE494: Sali de un puesto de emergencia 
-T=769.00, clienteE498: Sali de un puesto de emergencia 
-T=772.00, clienteE497: Sali de un puesto de emergencia 
-T=785.00, clienteE495: Sali de un puesto de emergencia 
-T=900.00 clienteE499: COLA EMERGENCIA - llegue con un IA: 133.00 
-Atendiendo: 21 
-En cola: 0 
-T=900.00, clienteE499: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 22 
-En cola: 0 
-Tiempo de Atencion generado para clienteE499: 27.00 
-T=919.00 clienteE500: COLA EMERGENCIA - llegue con un IA: 19.00 
-Atendiendo: 22 
-En cola: 0 
-T=919.00, clienteE500: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 23 
-En cola: 0 
-Tiempo de Atencion generado para clienteE500: 66.00 
-T=927.00, clienteE499: Sali de un puesto de emergencia 
-T=934.00 clienteE501: COLA EMERGENCIA - llegue con un IA: 15.00 
-Atendiendo: 23 
-En cola: 0 
-T=934.00, clienteE501: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 24 
-En cola: 0 
-Tiempo de Atencion generado para clienteE501: 21.00 
-T=954.00 clienteE502: COLA EMERGENCIA - llegue con un IA: 20.00 
-Atendiendo: 24 
-En cola: 0 
-T=954.00, clienteE502: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 25 
-En cola: 0 
-Tiempo de Atencion generado para clienteE502:  4.00 
-T=955.00, clienteE501: Sali de un puesto de emergencia 
-T=958.00, clienteE502: Sali de un puesto de emergencia 
-T=961.00 clienteE503: COLA EMERGENCIA - llegue con un IA:  7.00 
-Atendiendo: 25 
-En cola: 0 
-T=961.00, clienteE503: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 26 
-En cola: 0 
-Tiempo de Atencion generado para clienteE503: 36.00 
-T=973.00 clienteE504: COLA EMERGENCIA - llegue con un IA: 12.00 
-Atendiendo: 26 
-En cola: 0 
-T=973.00, clienteE504: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 27 
-En cola: 0 
-Tiempo de Atencion generado para clienteE504: 55.00 
-T=985.00, clienteE500: Sali de un puesto de emergencia 
-T=990.00 clienteE505: COLA EMERGENCIA - llegue con un IA: 17.00 
-Atendiendo: 27 
-En cola: 0 
-T=990.00, clienteE505: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 28 
-En cola: 0 
-Tiempo de Atencion generado para clienteE505:  9.00 
-T=997.00, clienteE503: Sali de un puesto de emergencia 
-T=999.00, clienteE505: Sali de un puesto de emergencia 
+Tiempo de Atencion generado para clienteE368: 24.00 
 ================================================================================ 
 
-T= 4.00 clienteE507: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 0 
+T=30.00 clienteE370: COLA EMERGENCIA - llegue con un IA: 30.00 
+Atendiendo: 0 de 50
 En cola: 0 
-T= 4.00, clienteE507: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 1 
+T=30.00, clienteE370: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 1 de 50
 En cola: 0 
-Tiempo de Atencion generado para clienteE507: 38.00 
-T=42.00, clienteE507: Sali de un puesto de emergencia 
-T=184.00 clienteE508: COLA EMERGENCIA - llegue con un IA: 180.00 
-Atendiendo: 1 
+Tiempo de Atencion generado para clienteE370:  2.00 
+T=32.00, clienteE370: Sali de un puesto de emergencia 
+T=151.00 clienteE371: COLA EMERGENCIA - llegue con un IA: 121.00 
+Atendiendo: 1 de 50
 En cola: 0 
-T=184.00, clienteE508: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 2 
+T=151.00, clienteE371: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 2 de 50
 En cola: 0 
-Tiempo de Atencion generado para clienteE508:  2.00 
-T=186.00, clienteE508: Sali de un puesto de emergencia 
-T=316.00 clienteE509: COLA EMERGENCIA - llegue con un IA: 132.00 
-Atendiendo: 2 
+Tiempo de Atencion generado para clienteE371:  2.00 
+T=153.00, clienteE371: Sali de un puesto de emergencia 
+T=209.00 clienteE372: COLA EMERGENCIA - llegue con un IA: 58.00 
+Atendiendo: 2 de 50
 En cola: 0 
-T=316.00, clienteE509: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 3 
+T=209.00, clienteE372: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 3 de 50
 En cola: 0 
-Tiempo de Atencion generado para clienteE509: 57.00 
-T=321.00 clienteE510: COLA EMERGENCIA - llegue con un IA:  5.00 
-Atendiendo: 3 
+Tiempo de Atencion generado para clienteE372: 10.00 
+T=219.00 clienteE373: COLA EMERGENCIA - llegue con un IA: 10.00 
+Atendiendo: 3 de 50
 En cola: 0 
-T=321.00, clienteE510: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 4 
+T=219.00, clienteE372: Sali de un puesto de emergencia 
+T=219.00, clienteE373: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 4 de 50
 En cola: 0 
-Tiempo de Atencion generado para clienteE510: 106.00 
-T=329.00 clienteE511: COLA EMERGENCIA - llegue con un IA:  8.00 
-Atendiendo: 4 
+Tiempo de Atencion generado para clienteE373: 44.00 
+T=233.00 clienteE374: COLA EMERGENCIA - llegue con un IA: 14.00 
+Atendiendo: 4 de 50
 En cola: 0 
-T=329.00, clienteE511: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 5 
+T=233.00, clienteE374: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 5 de 50
 En cola: 0 
-Tiempo de Atencion generado para clienteE511:  5.00 
-T=334.00, clienteE511: Sali de un puesto de emergencia 
-T=361.00 clienteE512: COLA EMERGENCIA - llegue con un IA: 32.00 
-Atendiendo: 5 
+Tiempo de Atencion generado para clienteE374: 36.00 
+T=263.00, clienteE373: Sali de un puesto de emergencia 
+T=269.00, clienteE374: Sali de un puesto de emergencia 
+T=275.00 clienteE375: COLA EMERGENCIA - llegue con un IA: 42.00 
+Atendiendo: 5 de 50
 En cola: 0 
-T=361.00, clienteE512: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 6 
+T=275.00, clienteE375: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 6 de 50
 En cola: 0 
-Tiempo de Atencion generado para clienteE512: 11.00 
-T=372.00, clienteE512: Sali de un puesto de emergencia 
-T=373.00, clienteE509: Sali de un puesto de emergencia 
-T=396.00 clienteE513: COLA EMERGENCIA - llegue con un IA: 35.00 
-Atendiendo: 6 
+Tiempo de Atencion generado para clienteE375: 81.00 
+T=356.00, clienteE375: Sali de un puesto de emergencia 
+T=368.00 clienteE376: COLA EMERGENCIA - llegue con un IA: 93.00 
+Atendiendo: 6 de 50
 En cola: 0 
-T=396.00, clienteE513: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 7 
+T=368.00, clienteE376: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
+Atendiendo: 7 de 50
 En cola: 0 
-Tiempo de Atencion generado para clienteE513: 14.00 
-T=410.00, clienteE513: Sali de un puesto de emergencia 
-T=427.00, clienteE510: Sali de un puesto de emergencia 
-T=449.00 clienteE514: COLA EMERGENCIA - llegue con un IA: 53.00 
-Atendiendo: 7 
-En cola: 0 
-T=449.00, clienteE514: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 8 
-En cola: 0 
-Tiempo de Atencion generado para clienteE514:  6.00 
-T=453.00 clienteE515: COLA EMERGENCIA - llegue con un IA:  4.00 
-Atendiendo: 8 
-En cola: 0 
-T=453.00, clienteE515: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 9 
-En cola: 0 
-Tiempo de Atencion generado para clienteE515:  3.00 
-T=455.00, clienteE514: Sali de un puesto de emergencia 
-T=456.00, clienteE515: Sali de un puesto de emergencia 
-T=573.00 clienteE516: COLA EMERGENCIA - llegue con un IA: 120.00 
-Atendiendo: 9 
-En cola: 0 
-T=573.00, clienteE516: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 10 
-En cola: 0 
-Tiempo de Atencion generado para clienteE516: 96.00 
-T=580.00 clienteE517: COLA EMERGENCIA - llegue con un IA:  7.00 
-Atendiendo: 10 
-En cola: 0 
-T=580.00, clienteE517: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 11 
-En cola: 0 
-Tiempo de Atencion generado para clienteE517:  3.00 
-T=583.00, clienteE517: Sali de un puesto de emergencia 
-T=592.00 clienteE518: COLA EMERGENCIA - llegue con un IA: 12.00 
-Atendiendo: 11 
-En cola: 0 
-T=592.00, clienteE518: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 12 
-En cola: 0 
-Tiempo de Atencion generado para clienteE518:  5.00 
-T=597.00, clienteE518: Sali de un puesto de emergencia 
-T=665.00 clienteE519: COLA EMERGENCIA - llegue con un IA: 73.00 
-Atendiendo: 12 
-En cola: 0 
-T=665.00, clienteE519: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 13 
-En cola: 0 
-Tiempo de Atencion generado para clienteE519: 15.00 
-T=669.00, clienteE516: Sali de un puesto de emergencia 
-T=680.00, clienteE519: Sali de un puesto de emergencia 
-T=729.00 clienteE520: COLA EMERGENCIA - llegue con un IA: 64.00 
-Atendiendo: 13 
-En cola: 0 
-T=729.00, clienteE520: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 14 
-En cola: 0 
-Tiempo de Atencion generado para clienteE520: 11.00 
-T=740.00, clienteE520: Sali de un puesto de emergencia 
-T=757.00 clienteE521: COLA EMERGENCIA - llegue con un IA: 28.00 
-Atendiendo: 14 
-En cola: 0 
-T=757.00, clienteE521: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 15 
-En cola: 0 
-Tiempo de Atencion generado para clienteE521:  2.00 
-T=759.00, clienteE521: Sali de un puesto de emergencia 
-T=772.00 clienteE522: COLA EMERGENCIA - llegue con un IA: 15.00 
-Atendiendo: 15 
-En cola: 0 
-T=772.00, clienteE522: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 16 
-En cola: 0 
-Tiempo de Atencion generado para clienteE522:  2.00 
-T=774.00, clienteE522: Sali de un puesto de emergencia 
-T=843.00 clienteE523: COLA EMERGENCIA - llegue con un IA: 71.00 
-Atendiendo: 16 
-En cola: 0 
-T=843.00, clienteE523: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 17 
-En cola: 0 
-Tiempo de Atencion generado para clienteE523:  5.00 
-T=848.00, clienteE523: Sali de un puesto de emergencia 
-T=850.00 clienteE524: COLA EMERGENCIA - llegue con un IA:  7.00 
-Atendiendo: 17 
-En cola: 0 
-T=850.00, clienteE524: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 18 
-En cola: 0 
-Tiempo de Atencion generado para clienteE524: 23.00 
-T=870.00 clienteE525: COLA EMERGENCIA - llegue con un IA: 20.00 
-Atendiendo: 18 
-En cola: 0 
-T=870.00, clienteE525: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 19 
-En cola: 0 
-Tiempo de Atencion generado para clienteE525:  5.00 
-T=873.00, clienteE524: Sali de un puesto de emergencia 
-T=875.00, clienteE525: Sali de un puesto de emergencia 
-T=880.00 clienteE526: COLA EMERGENCIA - llegue con un IA: 10.00 
-Atendiendo: 19 
-En cola: 0 
-T=880.00, clienteE526: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 20 
-En cola: 0 
-Tiempo de Atencion generado para clienteE526:  2.00 
-T=882.00, clienteE526: Sali de un puesto de emergencia 
-T=905.00 clienteE527: COLA EMERGENCIA - llegue con un IA: 25.00 
-Atendiendo: 20 
-En cola: 0 
-T=905.00, clienteE527: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 21 
-En cola: 0 
-Tiempo de Atencion generado para clienteE527: 15.00 
-T=912.00 clienteE528: COLA EMERGENCIA - llegue con un IA:  7.00 
-Atendiendo: 21 
-En cola: 0 
-T=912.00, clienteE528: COLA EMERGENCIA - Me atendieron en un puesto de emergencia despues de esperar  0.00 
-Atendiendo: 22 
-En cola: 0 
-Tiempo de Atencion generado para clienteE528: 19.00 
-T=920.00, clienteE527: Sali de un puesto de emergencia 
-T=931.00, clienteE528: Sali de un puesto de emergencia 
+Tiempo de Atencion generado para clienteE376: 38.00 
+T=406.00, clienteE376: Sali de un puesto de emergencia 
 ================================================================================ 
 
